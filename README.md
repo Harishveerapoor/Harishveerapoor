@@ -15,7 +15,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/hareesh-veerapoor-4b4835220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-
                                                                                                       
-
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harishveerapoor&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
