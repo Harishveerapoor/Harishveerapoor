@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-📑 Check out my resume here -<br>https://drive.google.com/file/d/1ElNEFY7bas_xckNXcxJPjUTx580ge4AQ/view<br>💻 All of my projects are available on<br><br>💬 Ask me about Programming, Software Testing.<br><br>📫 Reach out to me at harishveerapoor6@gmail.com
+📑 Check out my resume here -https://drive.google.com/file/d/1ElNEFY7bas_xckNXcxJPjUTx580ge4AQ/view<br>💻 All of my projects are available on<br><br>💬 Ask me about Programming, Software Testing.<br><br>📫 Reach out to me at harishveerapoor6@gmail.com
 
 
 ## 🌐 Socials:
