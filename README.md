@@ -1,5 +1,6 @@
+
 # 💫 About Me:
-📑 Check out my resume here -<https://drive.google.com/file/d/1ElNEFY7bas_xckNXcxJPjUTx580ge4AQ/view?usp=drivesdk>💻 All of my projects are available on<[br](https://github.com/Harishveerapoor)>💬 Ask me about Programming, Software Testing.<br>📫 Reach out to me at harishveerapoor6@gmail.com
+📑 Check out my resume here -<br>https://drive.google.com/file/d/1ElNEFY7bas_xckNXcxJPjUTx580ge4AQ/view<br>💻 All of my projects are available on<br><br>💬 Ask me about Programming, Software Testing.<br><br>📫 Reach out to me at harishveerapoor6@gmail.com
 
 
 ## 🌐 Socials:
@@ -15,19 +16,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Harishveerapoor&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->### Hi there 👋
-
-<!--
-**Harishveerapoor/Harishveerapoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
