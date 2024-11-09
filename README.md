@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hareesh Veerapoor</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/Ug6cbVA1ZsMAAAAd/developer.gif" />
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/0f5d8d9b715f9c3cd1e2b4f6bc2b69a7/tenor.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishveerapoor&label=Profile%20views&color=0e75b6&style=flat" alt="harishveerapoor" /> </p>
 
@@ -35,5 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishveerapoor&show_icons=true&locale=en" alt="harishveerapoor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishveerapoor&" alt="harishveerapoor" /></p>
+
 
 
